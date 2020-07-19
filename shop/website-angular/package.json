@@ -143,7 +143,7 @@
 		"handlebars": "^4.1.2",
 		"http-server": "^0.11.1",
 		"ie-shim": "^0.1.0",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.19",
 		"lodash.mergewith": "^4.6.2",
 		"lodash.template": "^4.5.0",
 		"lodash.templatesettings": "^4.2.0",
